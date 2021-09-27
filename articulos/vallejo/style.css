@@ -233,3 +233,6 @@ footer {
 .video-cont iframe {
   height: auto;
 }
+.arti-cont h1 {
+  overflow-x: hidden;
+}
